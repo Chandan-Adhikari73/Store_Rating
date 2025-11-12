@@ -17,7 +17,7 @@ Create the database and run the schema:
 mysql -u root -p < backend/schema.sql
 
 
-**Backend Setup**
+### **Backend Setup**
 
 cd backend
 cp .env.example .env
